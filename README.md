@@ -1,1 +1,1 @@
-`run npm install` to install packages
+run `npm install` to install packages
